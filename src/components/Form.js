@@ -81,7 +81,7 @@ function Form() {
       </div>
 </div>}
 {Back &&<div>
-<button className="dynamic_button" onClick={back}>Go back</button>
+<button className="dynamic_button" onClick={back}>&lArr;&nbsp;Go back</button>
 </div>
 }
     </div>

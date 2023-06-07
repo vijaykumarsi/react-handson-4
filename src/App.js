@@ -1,6 +1,5 @@
 import './App.css';
 import Form from './components/Form';
-// import EmployeeData from './components/EmpData';
 
 
 
@@ -10,7 +9,6 @@ function App() {
    <div>
     <h1>EMPLOYEE FEEDBACK FORM</h1>
     <Form />
-    {/* <EmployeeData/> */}
 
    
    
